@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\liper\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\liper\\.nuget\\packages"
+    ]
+  }
+}
